@@ -1,13 +1,7 @@
 # Hangman_game
 
-H   A   N   G   M   A   N
-        |
-        |
-        |
-        O
-       /|\
-       / \
-      =====
+![image](https://github.com/user-attachments/assets/4a1a9d7c-60fd-42f7-af2f-6421e19a94f1)
+
 
 Coding the hangman game
 You have to guess a word and for every wrong letter you submit you end up taking up a life away from your little man
